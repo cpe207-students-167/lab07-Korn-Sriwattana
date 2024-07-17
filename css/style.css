@@ -3,7 +3,7 @@
 .form-control::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   opacity: 1; /* Firefox */
-  color: rgb(167, 164, 164);
+  color: rgb(165, 165, 164);
 }
 
 .form-control:-ms-input-placeholder {
